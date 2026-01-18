@@ -16,7 +16,7 @@ transformers
 torch
 accelerate
 
-# Pathway (mandatory for Track A)
+# Pathway 
 pathway
 
 # Scikit for safety / utils
