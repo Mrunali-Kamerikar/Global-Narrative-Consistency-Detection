@@ -1,0 +1,23 @@
+# Core
+# python>=3.10
+
+# Data handling
+pandas
+numpy
+
+# Progress bars
+tqdm
+
+# Embeddings
+sentence-transformers
+
+# Transformers + NLI
+transformers
+torch
+accelerate
+
+# Pathway (mandatory for Track A)
+pathway
+
+# Scikit for safety / utils
+scikit-learn
